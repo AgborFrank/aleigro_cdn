@@ -36741,6 +36741,12 @@ blockquote:not(.blockquote) p {
   .max-width-270 {
     max-width: 16.875rem;
   }
+  .min-width-300 {
+  min-width: 21.75rem;
+}
+  .max-width-300 {
+  min-width: 21.75rem;
+}
 }
 
 @media (min-width: 1200px) {
@@ -36754,7 +36760,7 @@ blockquote:not(.blockquote) p {
 }
 
 .max-width-300 {
-  max-width: 21.75rem;
+  max-width: 18.75rem;
 }
 
 @media (min-width: 768px) {
