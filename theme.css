@@ -36766,6 +36766,9 @@ blockquote:not(.blockquote) p {
 .min-width-300 {
   min-width: 21.75rem;
 }
+.min-width-300w {
+  min-width: 21.75rem;
+}
 
 .max-width-320 {
   max-width: 21.75rem;
