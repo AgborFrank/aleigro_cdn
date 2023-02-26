@@ -54,6 +54,10 @@ html {
     width: 100%;
     cursor: pointer;
 }
+.nav-item .hs-has-mega-menu .u-header__nav-item:hover {
+  background:rgba(var(--primary, 0, 0, 0), 0.6);
+    color: var(--primary);
+}
 
 /* Box */
 .pure-material-checkbox > span::before {
