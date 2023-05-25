@@ -13979,7 +13979,7 @@ video{
     content: ' ';
     z-index: 0;
     background: rgb(0 0 0);
-    opacity: .8;
+    opacity: .75;
 }
 .bg-overlay[data-style="1"]{
     background:#fff
