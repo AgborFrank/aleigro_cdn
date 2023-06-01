@@ -13387,8 +13387,8 @@ a.text-dark:focus,a.text-dark:hover{
     font-family:'font awesome 5 brands';
     font-style:normal;
     font-weight:400;
-    src:url(../webfonts/fa-brands-400.eot);
-    src:url(../webfonts/fa-brands-400.eot?#iefix) format("embedded-opentype"),url(../webfonts/fa-brands-400.woff2) format("woff2"),url(../webfonts/fa-brands-400.woff) format("woff"),url(../webfonts/fa-brands-400.ttf) format("truetype"),url(../webfonts/fa-brands-400.svg#fontawesome) format("svg")
+    src:url(./webfonts/fa-brands-400.eot);
+    src:url(./webfonts/fa-brands-400.eot?#iefix) format("embedded-opentype"),url(./webfonts/fa-brands-400.woff2) format("woff2"),url(./webfonts/fa-brands-400.woff) format("woff"),url(./webfonts/fa-brands-400.ttf) format("truetype"),url(./webfonts/fa-brands-400.svg#fontawesome) format("svg")
 }
 .fab{
     font-family:'font awesome 5 brands'
@@ -13400,8 +13400,8 @@ a.text-dark:focus,a.text-dark:hover{
     font-family:'font awesome 5 free';
     font-style:normal;
     font-weight:400;
-    src:url(../webfonts/fa-regular-400.eot);
-    src:url(../webfonts/fa-regular-400.eot?#iefix) format("embedded-opentype"),url(../webfonts/fa-regular-400.woff2) format("woff2"),url(../webfonts/fa-regular-400.woff) format("woff"),url(../webfonts/fa-regular-400.ttf) format("truetype"),url(../webfonts/fa-regular-400.svg#fontawesome) format("svg")
+    src:url(./webfonts/fa-regular-400.eot);
+    src:url(./webfonts/fa-regular-400.eot?#iefix) format("embedded-opentype"),url(./webfonts/fa-regular-400.woff2) format("woff2"),url(./webfonts/fa-regular-400.woff) format("woff"),url(./webfonts/fa-regular-400.ttf) format("truetype"),url(./webfonts/fa-regular-400.svg#fontawesome) format("svg")
 }
 .far{
     font-weight:400
