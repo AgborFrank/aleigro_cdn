@@ -6309,7 +6309,7 @@ input[type="number"] {
     -ms-flex-align: stretch;
     align-items: stretch;
     padding: 10px 25px;
-    font-size: 0.875rem;
+    font-size: 16px;
     font-weight: 400;
     color: #f0f0f3;
 }
