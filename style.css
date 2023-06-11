@@ -2293,7 +2293,7 @@ section.dark,.dark section{
     font-weight:700
 }
 .header-extras>ul>li>a:not(.btn) i,.header-extras>ul>li .topbar-dropdown>.title i{
-    font-size:14px;
+    font-size:24px;
     position:relative
 }
 .header-extras>ul>li>a:not(.btn) i:nth-of-type(2),.header-extras>ul>li .topbar-dropdown>.title i:nth-of-type(2){
